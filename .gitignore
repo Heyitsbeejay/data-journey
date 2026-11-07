@@ -1,0 +1,36 @@
+# Secrets: never commit these
+.env
+.env.*
+*.pem
+*.key
+*.ppk
+credentials
+.aws/
+*secret*
+*.tfvars
+terraform.tfstate*
+.terraform/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# dbt / Airflow
+dbt/target/
+dbt/dbt_packages/
+dbt/logs/
+logs/
+airflow.db
+
+# Data (keep repo small; commit samples only)
+data/*.parquet
+*.db
+*.sqlite
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
