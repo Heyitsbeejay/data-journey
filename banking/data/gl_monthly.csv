@@ -1,0 +1,73 @@
+month,gl_code,gl_name,amount
+2025-10,410000,Interest income - loans and receivables,20884589.35
+2025-10,411000,Interest income - investment securities,3972220.93
+2025-10,510000,Interest expense - deposit liabilities,7507098.53
+2025-10,420000,"Service charges, fees and commissions",10327038.0
+2025-10,120000,"Loans and receivables (gross, end of month)",3110508388.02
+2025-10,210000,Deposit liabilities (end of month),4023662623.68
+2025-11,410000,Interest income - loans and receivables,20840310.29
+2025-11,411000,Interest income - investment securities,4418438.45
+2025-11,510000,Interest expense - deposit liabilities,7609890.36
+2025-11,420000,"Service charges, fees and commissions",10879153.71
+2025-11,120000,"Loans and receivables (gross, end of month)",3096418742.07
+2025-11,210000,Deposit liabilities (end of month),4112151719.27
+2025-12,410000,Interest income - loans and receivables,20871074.02
+2025-12,411000,Interest income - investment securities,4855759.33
+2025-12,510000,Interest expense - deposit liabilities,7703625.4
+2025-12,420000,"Service charges, fees and commissions",10112016.86
+2025-12,120000,"Loans and receivables (gross, end of month)",3095749191.31
+2025-12,210000,Deposit liabilities (end of month),4212015704.98
+2026-01,410000,Interest income - loans and receivables,21017959.44
+2026-01,411000,Interest income - investment securities,5025236.63
+2026-01,510000,Interest expense - deposit liabilities,7733852.52
+2026-01,420000,"Service charges, fees and commissions",11244069.0
+2026-01,120000,"Loans and receivables (gross, end of month)",3121740339.44
+2026-01,210000,Deposit liabilities (end of month),4276967151.55
+2026-02,410000,Interest income - loans and receivables,20918496.8
+2026-02,411000,Interest income - investment securities,5350227.36
+2026-02,510000,Interest expense - deposit liabilities,7791854.36
+2026-02,420000,"Service charges, fees and commissions",11349111.63
+2026-02,120000,"Loans and receivables (gross, end of month)",3100656229.51
+2026-02,210000,Deposit liabilities (end of month),4330593553.97
+2026-03,410000,Interest income - loans and receivables,20931498.68
+2026-03,411000,Interest income - investment securities,5545285.11
+2026-03,510000,Interest expense - deposit liabilities,7869204.59
+2026-03,420000,"Service charges, fees and commissions",10713250.34
+2026-03,120000,"Loans and receivables (gross, end of month)",3104663068.19
+2026-03,210000,Deposit liabilities (end of month),4379441254.2
+2026-04,410000,Interest income - loans and receivables,20981611.17
+2026-04,411000,Interest income - investment securities,5853449.51
+2026-04,510000,Interest expense - deposit liabilities,7826048.43
+2026-04,420000,"Service charges, fees and commissions",10849575.17
+2026-04,120000,"Loans and receivables (gross, end of month)",3099102969.43
+2026-04,210000,Deposit liabilities (end of month),4444723545.48
+2026-05,410000,Interest income - loans and receivables,21309254.38
+2026-05,411000,Interest income - investment securities,5890121.39
+2026-05,510000,Interest expense - deposit liabilities,7834510.15
+2026-05,420000,"Service charges, fees and commissions",11631513.61
+2026-05,120000,"Loans and receivables (gross, end of month)",3165815891.87
+2026-05,210000,Deposit liabilities (end of month),4519866787.09
+2026-06,410000,Interest income - loans and receivables,21097494.86
+2026-06,411000,Interest income - investment securities,6342173.82
+2026-06,510000,Interest expense - deposit liabilities,9218365.95
+2026-06,420000,"Service charges, fees and commissions",11126696.23
+2026-06,120000,"Loans and receivables (gross, end of month)",3131946067.81
+2026-06,210000,Deposit liabilities (end of month),4589917060.62
+2026-07,410000,Interest income - loans and receivables,21655917.42
+2026-07,411000,Interest income - investment securities,6148984.23
+2026-07,510000,Interest expense - deposit liabilities,8047797.0
+2026-07,420000,"Service charges, fees and commissions",11926021.07
+2026-07,120000,"Loans and receivables (gross, end of month)",3229371531.51
+2026-07,210000,Deposit liabilities (end of month),4642931124.11
+2026-08,410000,Interest income - loans and receivables,21480356.03
+2026-08,411000,Interest income - investment securities,6597737.54
+2026-08,510000,Interest expense - deposit liabilities,8105691.22
+2026-08,420000,"Service charges, fees and commissions",11694372.56
+2026-08,120000,"Loans and receivables (gross, end of month)",3198237067.14
+2026-08,210000,Deposit liabilities (end of month),4714958340.47
+2026-09,410000,Interest income - loans and receivables,21287227.9
+2026-09,411000,Interest income - investment securities,6845103.97
+2026-09,510000,Interest expense - deposit liabilities,8142806.16
+2026-09,420000,"Service charges, fees and commissions",11677628.45
+2026-09,120000,"Loans and receivables (gross, end of month)",3168078380.2
+2026-09,210000,Deposit liabilities (end of month),4741665500.06

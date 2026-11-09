@@ -34,3 +34,6 @@ data/*.parquet
 .DS_Store
 Thumbs.db
 .vscode/
+
+# Banking practice database is small and needed by the lessons
+!banking/data/sample_bank.db

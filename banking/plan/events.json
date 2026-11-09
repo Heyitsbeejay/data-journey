@@ -1,0 +1,322 @@
+[
+ {
+  "n": 1,
+  "summary": "Bank 1 – How a bank makes money",
+  "description": "Banking Analyst Academy · Lesson 1 of 40\nModule: 1 · How banks work · Level: Beginner\nFocus: Business\n\nOpen the lesson in Notion: https://www.notion.so/413c9e84812081c9b6fbd7d4c24e98b0\nSample data: https://github.com/Heyitsbeejay/data-journey/tree/main/banking\n\nCan't make it? Delete this event and the remaining lessons shift forward automatically.",
+  "date": "2026-11-10",
+  "start": "2026-11-10T12:15:00",
+  "end": "2026-11-10T12:45:00"
+ },
+ {
+  "n": 2,
+  "summary": "Bank 2 – Reading a bank's balance sheet and income statement",
+  "description": "Banking Analyst Academy · Lesson 2 of 40\nModule: 1 · How banks work · Level: Beginner\nFocus: Business, Metrics\n\nOpen the lesson in Notion: https://www.notion.so/413c9e848120818dbd4dd69957057706\nSample data: https://github.com/Heyitsbeejay/data-journey/tree/main/banking\n\nCan't make it? Delete this event and the remaining lessons shift forward automatically.",
+  "date": "2026-11-11",
+  "start": "2026-11-11T12:15:00",
+  "end": "2026-11-11T12:45:00"
+ },
+ {
+  "n": 3,
+  "summary": "Bank 3 – The Philippine banking landscape and the BSP",
+  "description": "Banking Analyst Academy · Lesson 3 of 40\nModule: 1 · How banks work · Level: Beginner\nFocus: Business, Regulation\n\nOpen the lesson in Notion: https://www.notion.so/413c9e848120813b961dd704aa8449bb\nSample data: https://github.com/Heyitsbeejay/data-journey/tree/main/banking\n\nCan't make it? Delete this event and the remaining lessons shift forward automatically.",
+  "date": "2026-11-12",
+  "start": "2026-11-12T12:15:00",
+  "end": "2026-11-12T12:45:00"
+ },
+ {
+  "n": 4,
+  "summary": "Bank 4 – BPI in the ecosystem",
+  "description": "Banking Analyst Academy · Lesson 4 of 40\nModule: 1 · How banks work · Level: Beginner\nFocus: Business\n\nOpen the lesson in Notion: https://www.notion.so/413c9e848120814bb1cec380658f517a\nSample data: https://github.com/Heyitsbeejay/data-journey/tree/main/banking\n\nCan't make it? Delete this event and the remaining lessons shift forward automatically.",
+  "date": "2026-11-13",
+  "start": "2026-11-13T12:15:00",
+  "end": "2026-11-13T12:45:00"
+ },
+ {
+  "n": 5,
+  "summary": "Bank 5 – Inside the bank: who does what (and where CEDA fits)",
+  "description": "Banking Analyst Academy · Lesson 5 of 40\nModule: 1 · How banks work · Level: Beginner\nFocus: Business, Stakeholders\n\nOpen the lesson in Notion: https://www.notion.so/413c9e84812081ca8be7c89c2e6a7925\nSample data: https://github.com/Heyitsbeejay/data-journey/tree/main/banking\n\nCan't make it? Delete this event and the remaining lessons shift forward automatically.",
+  "date": "2026-11-16",
+  "start": "2026-11-16T12:15:00",
+  "end": "2026-11-16T12:45:00"
+ },
+ {
+  "n": 6,
+  "summary": "Bank 6 – Deposits: CASA, time deposits and why funding mix matters",
+  "description": "Banking Analyst Academy · Lesson 6 of 40\nModule: 2 · Products and business lines · Level: Beginner\nFocus: Business, Metrics\n\nOpen the lesson in Notion: https://www.notion.so/413c9e848120818bb7c9cf1e71ae66fb\nSample data: https://github.com/Heyitsbeejay/data-journey/tree/main/banking\n\nCan't make it? Delete this event and the remaining lessons shift forward automatically.",
+  "date": "2026-11-17",
+  "start": "2026-11-17T12:15:00",
+  "end": "2026-11-17T12:45:00"
+ },
+ {
+  "n": 7,
+  "summary": "Bank 7 – Consumer lending: housing, auto and personal loans",
+  "description": "Banking Analyst Academy · Lesson 7 of 40\nModule: 2 · Products and business lines · Level: Beginner\nFocus: Business, Metrics\n\nOpen the lesson in Notion: https://www.notion.so/413c9e84812081e9af3ad354f152d26e\nSample data: https://github.com/Heyitsbeejay/data-journey/tree/main/banking\n\nCan't make it? Delete this event and the remaining lessons shift forward automatically.",
+  "date": "2026-11-18",
+  "start": "2026-11-18T12:15:00",
+  "end": "2026-11-18T12:45:00"
+ },
+ {
+  "n": 8,
+  "summary": "Bank 8 – Credit cards and payments",
+  "description": "Banking Analyst Academy · Lesson 8 of 40\nModule: 2 · Products and business lines · Level: Beginner\nFocus: Business\n\nOpen the lesson in Notion: https://www.notion.so/413c9e8481208141a7a3f268007e5421\nSample data: https://github.com/Heyitsbeejay/data-journey/tree/main/banking\n\nCan't make it? Delete this event and the remaining lessons shift forward automatically.",
+  "date": "2026-11-19",
+  "start": "2026-11-19T12:15:00",
+  "end": "2026-11-19T12:45:00"
+ },
+ {
+  "n": 9,
+  "summary": "Bank 9 – Corporate, SME, treasury, wealth and investment banking",
+  "description": "Banking Analyst Academy · Lesson 9 of 40\nModule: 2 · Products and business lines · Level: Intermediate\nFocus: Business\n\nOpen the lesson in Notion: https://www.notion.so/413c9e8481208105a449cf85f0b588c1\nSample data: https://github.com/Heyitsbeejay/data-journey/tree/main/banking\n\nCan't make it? Delete this event and the remaining lessons shift forward automatically.",
+  "date": "2026-11-20",
+  "start": "2026-11-20T12:15:00",
+  "end": "2026-11-20T12:45:00"
+ },
+ {
+  "n": 10,
+  "summary": "Bank 10 – Channels: branches, ATMs, agency and digital",
+  "description": "Banking Analyst Academy · Lesson 10 of 40\nModule: 2 · Products and business lines · Level: Beginner\nFocus: Business, Metrics\n\nOpen the lesson in Notion: https://www.notion.so/413c9e84812081ff83a6ced0e36d9939\nSample data: https://github.com/Heyitsbeejay/data-journey/tree/main/banking\n\nCan't make it? Delete this event and the remaining lessons shift forward automatically.",
+  "date": "2026-11-23",
+  "start": "2026-11-23T12:15:00",
+  "end": "2026-11-23T12:45:00"
+ },
+ {
+  "n": 11,
+  "summary": "Bank 11 – Interest income, interest expense, NII and average balances",
+  "description": "Banking Analyst Academy · Lesson 11 of 40\nModule: 3 · Financial performance metrics · Level: Intermediate\nFocus: Metrics\n\nOpen the lesson in Notion: https://www.notion.so/413c9e84812081109cb1f305d3d27714\nSample data: https://github.com/Heyitsbeejay/data-journey/tree/main/banking\n\nCan't make it? Delete this event and the remaining lessons shift forward automatically.",
+  "date": "2026-11-24",
+  "start": "2026-11-24T12:15:00",
+  "end": "2026-11-24T12:45:00"
+ },
+ {
+  "n": 12,
+  "summary": "Bank 12 – NIM, yields, cost of funds and rate/volume analysis",
+  "description": "Banking Analyst Academy · Lesson 12 of 40\nModule: 3 · Financial performance metrics · Level: Intermediate\nFocus: Metrics\n\nOpen the lesson in Notion: https://www.notion.so/413c9e84812081eab500ffa8f4fbbb5d\nSample data: https://github.com/Heyitsbeejay/data-journey/tree/main/banking\n\nCan't make it? Delete this event and the remaining lessons shift forward automatically.",
+  "date": "2026-11-25",
+  "start": "2026-11-25T12:15:00",
+  "end": "2026-11-25T12:45:00"
+ },
+ {
+  "n": 13,
+  "summary": "Bank 13 – Non-interest income, operating expenses and cost-to-income",
+  "description": "Banking Analyst Academy · Lesson 13 of 40\nModule: 3 · Financial performance metrics · Level: Intermediate\nFocus: Metrics\n\nOpen the lesson in Notion: https://www.notion.so/413c9e848120813c87bdd87f560db849\nSample data: https://github.com/Heyitsbeejay/data-journey/tree/main/banking\n\nCan't make it? Delete this event and the remaining lessons shift forward automatically.",
+  "date": "2026-11-26",
+  "start": "2026-11-26T12:15:00",
+  "end": "2026-11-26T12:45:00"
+ },
+ {
+  "n": 14,
+  "summary": "Bank 14 – Asset quality: NPLs, provisions and credit cost",
+  "description": "Banking Analyst Academy · Lesson 14 of 40\nModule: 3 · Financial performance metrics · Level: Intermediate\nFocus: Metrics, Regulation\n\nOpen the lesson in Notion: https://www.notion.so/413c9e8481208175bd2ad78f3b6df0d6\nSample data: https://github.com/Heyitsbeejay/data-journey/tree/main/banking\n\nCan't make it? Delete this event and the remaining lessons shift forward automatically.",
+  "date": "2026-11-27",
+  "start": "2026-11-27T12:15:00",
+  "end": "2026-11-27T12:45:00"
+ },
+ {
+  "n": 15,
+  "summary": "Bank 15 – ROA, ROE and the bank DuPont tree",
+  "description": "Banking Analyst Academy · Lesson 15 of 40\nModule: 3 · Financial performance metrics · Level: Intermediate\nFocus: Metrics\n\nOpen the lesson in Notion: https://www.notion.so/413c9e8481208192a54fec6053295cf7\nSample data: https://github.com/Heyitsbeejay/data-journey/tree/main/banking\n\nCan't make it? Delete this event and the remaining lessons shift forward automatically.",
+  "date": "2026-12-01",
+  "start": "2026-12-01T12:15:00",
+  "end": "2026-12-01T12:45:00"
+ },
+ {
+  "n": 16,
+  "summary": "Bank 16 – Funds transfer pricing (FTP): the engine of profitability reporting",
+  "description": "Banking Analyst Academy · Lesson 16 of 40\nModule: 4 · Profitability measurement · Level: Intermediate\nFocus: Metrics, Data\n\nOpen the lesson in Notion: https://www.notion.so/413c9e84812081849b55d748cb2a6c39\nSample data: https://github.com/Heyitsbeejay/data-journey/tree/main/banking\n\nCan't make it? Delete this event and the remaining lessons shift forward automatically.",
+  "date": "2026-12-02",
+  "start": "2026-12-02T12:15:00",
+  "end": "2026-12-02T12:45:00"
+ },
+ {
+  "n": 17,
+  "summary": "Bank 17 – Cost allocation and contribution margin layers",
+  "description": "Banking Analyst Academy · Lesson 17 of 40\nModule: 4 · Profitability measurement · Level: Intermediate\nFocus: Metrics\n\nOpen the lesson in Notion: https://www.notion.so/413c9e84812081149e36ea37a5dab7dd\nSample data: https://github.com/Heyitsbeejay/data-journey/tree/main/banking\n\nCan't make it? Delete this event and the remaining lessons shift forward automatically.",
+  "date": "2026-12-03",
+  "start": "2026-12-03T12:15:00",
+  "end": "2026-12-03T12:45:00"
+ },
+ {
+  "n": 18,
+  "summary": "Bank 18 – Account and product profitability",
+  "description": "Banking Analyst Academy · Lesson 18 of 40\nModule: 4 · Profitability measurement · Level: Intermediate\nFocus: Metrics, Data\n\nOpen the lesson in Notion: https://www.notion.so/413c9e84812081548e01c58aeeb2a61b\nSample data: https://github.com/Heyitsbeejay/data-journey/tree/main/banking\n\nCan't make it? Delete this event and the remaining lessons shift forward automatically.",
+  "date": "2026-12-04",
+  "start": "2026-12-04T12:15:00",
+  "end": "2026-12-04T12:45:00"
+ },
+ {
+  "n": 19,
+  "summary": "Bank 19 – Customer and segment profitability, and customer lifetime value",
+  "description": "Banking Analyst Academy · Lesson 19 of 40\nModule: 4 · Profitability measurement · Level: Advanced\nFocus: Metrics, Business\n\nOpen the lesson in Notion: https://www.notion.so/413c9e84812081c6a706d3e43883890b\nSample data: https://github.com/Heyitsbeejay/data-journey/tree/main/banking\n\nCan't make it? Delete this event and the remaining lessons shift forward automatically.",
+  "date": "2026-12-07",
+  "start": "2026-12-07T12:15:00",
+  "end": "2026-12-07T12:45:00"
+ },
+ {
+  "n": 20,
+  "summary": "Bank 20 – Channel profitability and cost-to-serve",
+  "description": "Banking Analyst Academy · Lesson 20 of 40\nModule: 4 · Profitability measurement · Level: Advanced\nFocus: Metrics, Business\n\nOpen the lesson in Notion: https://www.notion.so/413c9e8481208158b586ca7c47ce16aa\nSample data: https://github.com/Heyitsbeejay/data-journey/tree/main/banking\n\nCan't make it? Delete this event and the remaining lessons shift forward automatically.",
+  "date": "2026-12-09",
+  "start": "2026-12-09T12:15:00",
+  "end": "2026-12-09T12:45:00"
+ },
+ {
+  "n": 21,
+  "summary": "Bank 21 – Risk-adjusted profitability: capital, expected loss and RAROC",
+  "description": "Banking Analyst Academy · Lesson 21 of 40\nModule: 4 · Profitability measurement · Level: Advanced\nFocus: Metrics, Regulation\n\nOpen the lesson in Notion: https://www.notion.so/413c9e8481208105b125e4a5cf095b46\nSample data: https://github.com/Heyitsbeejay/data-journey/tree/main/banking\n\nCan't make it? Delete this event and the remaining lessons shift forward automatically.",
+  "date": "2026-12-10",
+  "start": "2026-12-10T12:15:00",
+  "end": "2026-12-10T12:45:00"
+ },
+ {
+  "n": 22,
+  "summary": "Bank 22 – Credit risk analytics: PD, LGD, EAD, vintages and roll rates",
+  "description": "Banking Analyst Academy · Lesson 22 of 40\nModule: 5 · Risk and regulation · Level: Advanced\nFocus: Metrics, Regulation\n\nOpen the lesson in Notion: https://www.notion.so/413c9e84812081e9bd2fdbfcad40dcaf\nSample data: https://github.com/Heyitsbeejay/data-journey/tree/main/banking\n\nCan't make it? Delete this event and the remaining lessons shift forward automatically.",
+  "date": "2026-12-11",
+  "start": "2026-12-11T12:15:00",
+  "end": "2026-12-11T12:45:00"
+ },
+ {
+  "n": 23,
+  "summary": "Bank 23 – Liquidity and capital: CAR, CET1, LCR, NSFR and reserves",
+  "description": "Banking Analyst Academy · Lesson 23 of 40\nModule: 5 · Risk and regulation · Level: Advanced\nFocus: Regulation, Metrics\n\nOpen the lesson in Notion: https://www.notion.so/413c9e84812081e796c1ce77946fef12\nSample data: https://github.com/Heyitsbeejay/data-journey/tree/main/banking\n\nCan't make it? Delete this event and the remaining lessons shift forward automatically.",
+  "date": "2026-12-14",
+  "start": "2026-12-14T12:15:00",
+  "end": "2026-12-14T12:45:00"
+ },
+ {
+  "n": 24,
+  "summary": "Bank 24 – Compliance: AML/KYC, data privacy and consumer protection",
+  "description": "Banking Analyst Academy · Lesson 24 of 40\nModule: 5 · Risk and regulation · Level: Intermediate\nFocus: Regulation, Data\n\nOpen the lesson in Notion: https://www.notion.so/413c9e84812081bcb241fe010874770a\nSample data: https://github.com/Heyitsbeejay/data-journey/tree/main/banking\n\nCan't make it? Delete this event and the remaining lessons shift forward automatically.",
+  "date": "2026-12-15",
+  "start": "2026-12-15T12:15:00",
+  "end": "2026-12-15T12:45:00"
+ },
+ {
+  "n": 25,
+  "summary": "Bank 25 – Market, interest-rate and operational risk basics",
+  "description": "Banking Analyst Academy · Lesson 25 of 40\nModule: 5 · Risk and regulation · Level: Intermediate\nFocus: Regulation\n\nOpen the lesson in Notion: https://www.notion.so/413c9e848120810db5fefb6f681b8b80\nSample data: https://github.com/Heyitsbeejay/data-journey/tree/main/banking\n\nCan't make it? Delete this event and the remaining lessons shift forward automatically.",
+  "date": "2026-12-16",
+  "start": "2026-12-16T12:15:00",
+  "end": "2026-12-16T12:45:00"
+ },
+ {
+  "n": 26,
+  "summary": "Bank 26 – The bank's systems landscape",
+  "description": "Banking Analyst Academy · Lesson 26 of 40\nModule: 6 · Banking data architecture · Level: Intermediate\nFocus: Data\n\nOpen the lesson in Notion: https://www.notion.so/413c9e84812081c2aa7cf384e61a7b2a\nSample data: https://github.com/Heyitsbeejay/data-journey/tree/main/banking\n\nCan't make it? Delete this event and the remaining lessons shift forward automatically.",
+  "date": "2026-12-17",
+  "start": "2026-12-17T12:15:00",
+  "end": "2026-12-17T12:45:00"
+ },
+ {
+  "n": 27,
+  "summary": "Bank 27 – From source to report: warehouse, lake, marts and semantic layer",
+  "description": "Banking Analyst Academy · Lesson 27 of 40\nModule: 6 · Banking data architecture · Level: Intermediate\nFocus: Data\n\nOpen the lesson in Notion: https://www.notion.so/413c9e84812081f183e6fba77e76a2f9\nSample data: https://github.com/Heyitsbeejay/data-journey/tree/main/banking\n\nCan't make it? Delete this event and the remaining lessons shift forward automatically.",
+  "date": "2026-12-18",
+  "start": "2026-12-18T12:15:00",
+  "end": "2026-12-18T12:45:00"
+ },
+ {
+  "n": 28,
+  "summary": "Bank 28 – Customer data and master data management (MDM)",
+  "description": "Banking Analyst Academy · Lesson 28 of 40\nModule: 6 · Banking data architecture · Level: Intermediate\nFocus: Data\n\nOpen the lesson in Notion: https://www.notion.so/413c9e848120812b9fecdc3dcea747b7\nSample data: https://github.com/Heyitsbeejay/data-journey/tree/main/banking\n\nCan't make it? Delete this event and the remaining lessons shift forward automatically.",
+  "date": "2026-12-21",
+  "start": "2026-12-21T12:15:00",
+  "end": "2026-12-21T12:45:00"
+ },
+ {
+  "n": 29,
+  "summary": "Bank 29 – Finance vs MIS: GL, sub-ledgers and reconciliation",
+  "description": "Banking Analyst Academy · Lesson 29 of 40\nModule: 6 · Banking data architecture · Level: Advanced\nFocus: Data, Metrics\n\nOpen the lesson in Notion: https://www.notion.so/413c9e84812081ae84aae299d68d910e\nSample data: https://github.com/Heyitsbeejay/data-journey/tree/main/banking\n\nCan't make it? Delete this event and the remaining lessons shift forward automatically.",
+  "date": "2026-12-22",
+  "start": "2026-12-22T12:15:00",
+  "end": "2026-12-22T12:45:00"
+ },
+ {
+  "n": 30,
+  "summary": "Bank 30 – Data governance: ownership, lineage, metadata and BCBS 239",
+  "description": "Banking Analyst Academy · Lesson 30 of 40\nModule: 6 · Banking data architecture · Level: Advanced\nFocus: Data, Regulation\n\nOpen the lesson in Notion: https://www.notion.so/413c9e84812081a28d01c6aab6253ca5\nSample data: https://github.com/Heyitsbeejay/data-journey/tree/main/banking\n\nCan't make it? Delete this event and the remaining lessons shift forward automatically.",
+  "date": "2026-12-23",
+  "start": "2026-12-23T12:15:00",
+  "end": "2026-12-23T12:45:00"
+ },
+ {
+  "n": 31,
+  "summary": "Bank 31 – Data quality and the Single Source of Truth",
+  "description": "Banking Analyst Academy · Lesson 31 of 40\nModule: 6 · Banking data architecture · Level: Advanced\nFocus: Data\n\nOpen the lesson in Notion: https://www.notion.so/413c9e84812081b98f24ced1fba8c8ea\nSample data: https://github.com/Heyitsbeejay/data-journey/tree/main/banking\n\nCan't make it? Delete this event and the remaining lessons shift forward automatically.",
+  "date": "2027-01-04",
+  "start": "2027-01-04T12:15:00",
+  "end": "2027-01-04T12:45:00"
+ },
+ {
+  "n": 32,
+  "summary": "Bank 32 – Stakeholders I: Finance, Treasury, Risk and Compliance",
+  "description": "Banking Analyst Academy · Lesson 32 of 40\nModule: 7 · Stakeholders and analyst craft · Level: Intermediate\nFocus: Stakeholders\n\nOpen the lesson in Notion: https://www.notion.so/413c9e848120814b8333d31aa27052eb\nSample data: https://github.com/Heyitsbeejay/data-journey/tree/main/banking\n\nCan't make it? Delete this event and the remaining lessons shift forward automatically.",
+  "date": "2027-01-05",
+  "start": "2027-01-05T12:15:00",
+  "end": "2027-01-05T12:45:00"
+ },
+ {
+  "n": 33,
+  "summary": "Bank 33 – Stakeholders II: business units, product, marketing, operations and senior management",
+  "description": "Banking Analyst Academy · Lesson 33 of 40\nModule: 7 · Stakeholders and analyst craft · Level: Intermediate\nFocus: Stakeholders\n\nOpen the lesson in Notion: https://www.notion.so/413c9e848120817dbe05f6af285f773c\nSample data: https://github.com/Heyitsbeejay/data-journey/tree/main/banking\n\nCan't make it? Delete this event and the remaining lessons shift forward automatically.",
+  "date": "2027-01-06",
+  "start": "2027-01-06T12:15:00",
+  "end": "2027-01-06T12:45:00"
+ },
+ {
+  "n": 34,
+  "summary": "Bank 34 – Requirements, metric definitions and challenging inconsistent numbers",
+  "description": "Banking Analyst Academy · Lesson 34 of 40\nModule: 7 · Stakeholders and analyst craft · Level: Advanced\nFocus: Stakeholders, Data\n\nOpen the lesson in Notion: https://www.notion.so/413c9e84812081569dedfc34e422a9d6\nSample data: https://github.com/Heyitsbeejay/data-journey/tree/main/banking\n\nCan't make it? Delete this event and the remaining lessons shift forward automatically.",
+  "date": "2027-01-07",
+  "start": "2027-01-07T12:15:00",
+  "end": "2027-01-07T12:45:00"
+ },
+ {
+  "n": 35,
+  "summary": "Bank 35 – Investigating: trends, anomalies and root cause",
+  "description": "Banking Analyst Academy · Lesson 35 of 40\nModule: 7 · Stakeholders and analyst craft · Level: Advanced\nFocus: Metrics, Stakeholders\n\nOpen the lesson in Notion: https://www.notion.so/413c9e84812081b6a31ada33c2a41e82\nSample data: https://github.com/Heyitsbeejay/data-journey/tree/main/banking\n\nCan't make it? Delete this event and the remaining lessons shift forward automatically.",
+  "date": "2027-01-08",
+  "start": "2027-01-08T12:15:00",
+  "end": "2027-01-08T12:45:00"
+ },
+ {
+  "n": 36,
+  "summary": "Bank 36 – Communicating findings to management",
+  "description": "Banking Analyst Academy · Lesson 36 of 40\nModule: 7 · Stakeholders and analyst craft · Level: Advanced\nFocus: Stakeholders\n\nOpen the lesson in Notion: https://www.notion.so/413c9e8481208103a063c26172fcc65c\nSample data: https://github.com/Heyitsbeejay/data-journey/tree/main/banking\n\nCan't make it? Delete this event and the remaining lessons shift forward automatically.",
+  "date": "2027-01-11",
+  "start": "2027-01-11T12:15:00",
+  "end": "2027-01-11T12:45:00"
+ },
+ {
+  "n": 37,
+  "summary": "Bank 37 – Case: Consumer Banking segment profitability review",
+  "description": "Banking Analyst Academy · Lesson 37 of 40\nModule: 8 · Case studies and capstone · Level: Advanced\nFocus: Metrics, Stakeholders\n\nOpen the lesson in Notion: https://www.notion.so/413c9e84812081f08109d75f9459a38a\nSample data: https://github.com/Heyitsbeejay/data-journey/tree/main/banking\n\nCan't make it? Delete this event and the remaining lessons shift forward automatically.",
+  "date": "2027-01-12",
+  "start": "2027-01-12T12:15:00",
+  "end": "2027-01-12T12:45:00"
+ },
+ {
+  "n": 38,
+  "summary": "Bank 38 – Case: Personal loan quality and the provisions question",
+  "description": "Banking Analyst Academy · Lesson 38 of 40\nModule: 8 · Case studies and capstone · Level: Advanced\nFocus: Metrics, Regulation\n\nOpen the lesson in Notion: https://www.notion.so/413c9e84812081cabf29cd7391f1aa83\nSample data: https://github.com/Heyitsbeejay/data-journey/tree/main/banking\n\nCan't make it? Delete this event and the remaining lessons shift forward automatically.",
+  "date": "2027-01-13",
+  "start": "2027-01-13T12:15:00",
+  "end": "2027-01-13T12:45:00"
+ },
+ {
+  "n": 39,
+  "summary": "Bank 39 – Case: Channel migration business case",
+  "description": "Banking Analyst Academy · Lesson 39 of 40\nModule: 8 · Case studies and capstone · Level: Advanced\nFocus: Metrics, Business\n\nOpen the lesson in Notion: https://www.notion.so/413c9e84812081199b0ce65b6cdc4cc8\nSample data: https://github.com/Heyitsbeejay/data-journey/tree/main/banking\n\nCan't make it? Delete this event and the remaining lessons shift forward automatically.",
+  "date": "2027-01-14",
+  "start": "2027-01-14T12:15:00",
+  "end": "2027-01-14T12:45:00"
+ },
+ {
+  "n": 40,
+  "summary": "Bank 40 – Capstone: monthly performance pack, final assessment and keeping it sharp",
+  "description": "Banking Analyst Academy · Lesson 40 of 40\nModule: 8 · Case studies and capstone · Level: Advanced\nFocus: Metrics, Data, Stakeholders\n\nOpen the lesson in Notion: https://www.notion.so/413c9e8481208107b626cdb0ecb6ecfb\nSample data: https://github.com/Heyitsbeejay/data-journey/tree/main/banking\n\nCan't make it? Delete this event and the remaining lessons shift forward automatically.",
+  "date": "2027-01-15",
+  "start": "2027-01-15T12:15:00",
+  "end": "2027-01-15T12:45:00"
+ }
+]
