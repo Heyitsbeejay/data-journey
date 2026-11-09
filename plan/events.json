@@ -1,0 +1,578 @@
+[
+ {
+  "n": 1,
+  "kind": "night",
+  "summary": "Learn 1 – What data engineers do",
+  "description": "Learning night · 1 h · Data foundations + Tableau · session 1 of 64\n\n▶ Fundamentals Of Data Engineering Masterclass – 65 min (0:00–1:05:16) (Watch at 1.25x speed (about 52 min).)\nhttps://www.youtube.com/watch?v=hf2go3E2m8g&t=0s\n📖 DataTalksClub Data Engineering Zoomcamp (free, GitHub)\nhttps://github.com/DataTalksClub/data-engineering-zoomcamp\n\n🏁 Builds toward Milestone 1: Python ETL pipeline + first Tableau dashboard\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2026-11-10",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 2,
+  "kind": "night",
+  "summary": "Learn 2 – Data architecture: warehouses, lakes and modelling",
+  "description": "Learning night · 1 h · Data foundations + Tableau · session 2 of 64\n\n▶ Fundamentals Of Data Engineering Masterclass – 56 min (1:05:16–2:01:41) (Watch at 1.25x speed (about 45 min).)\nhttps://www.youtube.com/watch?v=hf2go3E2m8g&t=3916s\n📖 Your roadmap page (Week 1 lessons)\nhttps://claude.ai/artifact/DtQzj1iNy5Ph39XKje8jU3\n\n🏁 Builds toward Milestone 1: Python ETL pipeline + first Tableau dashboard\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2026-11-11",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 3,
+  "kind": "night",
+  "summary": "Learn 3 – Git and GitHub basics",
+  "description": "Learning night · 1 h · Data foundations + Tableau · session 3 of 64\n\n▶ Git and GitHub for Beginners - Crash Course – 32 min (0:00–32:42)\nhttps://www.youtube.com/watch?v=RGOj5yH7evk&t=0s\n📖 Your data-journey repo\nhttps://github.com/Heyitsbeejay/data-journey\n\nTry it (optional): clone your data-journey repo, change one line of the README, commit and push.\n\n🏁 Builds toward Milestone 1: Python ETL pipeline + first Tableau dashboard\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2026-11-12",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 4,
+  "kind": "lab",
+  "summary": "Lab 4 – Tableau first steps",
+  "description": "Saturday lab · 2 h · Data foundations + Tableau · session 4 of 64\n\n▶ Tableau Ultimate Full Course (21 Hours) for Beginners - From Zero to HERO – 108 min (0:00–1:48:44) (Watch at 1.5x speed (about 72 min).)\nhttps://www.youtube.com/watch?v=K3pXnbniUcM&t=0s\n📖 Tableau free training videos (Desktop, Prep, Cloud/Server)\nhttps://www.tableau.com/learn/training\n\nFollow along: Install Tableau Public (free) and sign up. Follow along with the video using the course data and build your first bar and line chart.\n\n🏁 Builds toward Milestone 1: Python ETL pipeline + first Tableau dashboard\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2026-11-14",
+  "start": "14:00",
+  "end": "16:00"
+ },
+ {
+  "n": 5,
+  "kind": "night",
+  "summary": "Learn 5 – SQL 1: SELECT, WHERE, GROUP BY",
+  "description": "Learning night · 1 h · Data foundations + Tableau · session 5 of 64\n\n▶ Learn SQL Beginner to Advanced in Under 4 Hours – 51 min (0:00–51:10)\nhttps://www.youtube.com/watch?v=OT1RErkfLNQ&t=0s\n📖 PostgreSQL tutorial – Querying a table (SELECT, WHERE, ORDER BY)\nhttps://www.postgresql.org/docs/current/tutorial-select.html\n\nTry it (optional): install MySQL Community or use an online SQL sandbox and run the video's queries.\n\n🏁 Builds toward Milestone 1: Python ETL pipeline + first Tableau dashboard\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2026-11-16",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 6,
+  "kind": "night",
+  "summary": "Learn 6 – SQL 2: joins, unions, CASE",
+  "description": "Learning night · 1 h · Data foundations + Tableau · session 6 of 64\n\n▶ Learn SQL Beginner to Advanced in Under 4 Hours – 44 min (51:10–1:35:16)\nhttps://www.youtube.com/watch?v=OT1RErkfLNQ&t=3070s\n📖 PostgreSQL tutorial – Joins between tables\nhttps://www.postgresql.org/docs/current/tutorial-join.html\n\n🏁 Builds toward Milestone 1: Python ETL pipeline + first Tableau dashboard\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2026-11-17",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 7,
+  "kind": "night",
+  "summary": "Learn 7 – SQL 3: subqueries, window functions, CTEs",
+  "description": "Learning night · 1 h · Data foundations + Tableau · session 7 of 64\n\n▶ Learn SQL Beginner to Advanced in Under 4 Hours – 53 min (1:35:16–2:28:51)\nhttps://www.youtube.com/watch?v=OT1RErkfLNQ&t=5716s\n📖 PostgreSQL tutorial – Window functions\nhttps://www.postgresql.org/docs/current/tutorial-window.html\n\n🏁 Builds toward Milestone 1: Python ETL pipeline + first Tableau dashboard\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2026-11-18",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 8,
+  "kind": "night",
+  "summary": "Learn 8 – SQL: cleaning data",
+  "description": "Learning night · 1 h · Data foundations + Tableau · session 8 of 64\n\n▶ Learn SQL Beginner to Advanced in Under 4 Hours – 49 min (2:42:46–3:32:14)\nhttps://www.youtube.com/watch?v=OT1RErkfLNQ&t=9766s\n📖 PostgreSQL – String functions (TRIM, UPPER, SPLIT_PART…)\nhttps://www.postgresql.org/docs/current/functions-string.html\n\n🏁 Builds toward Milestone 1: Python ETL pipeline + first Tableau dashboard\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2026-11-19",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 9,
+  "kind": "lab",
+  "summary": "Lab 9 – Tableau: connecting and combining data",
+  "description": "Saturday lab · 2 h · Data foundations + Tableau · session 9 of 64\n\n▶ Tableau Ultimate Full Course (21 Hours) for Beginners - From Zero to HERO – 124 min (1:48:44–3:53:18) (Watch at 1.5x speed (about 83 min).)\nhttps://www.youtube.com/watch?v=K3pXnbniUcM&t=6524s\n📖 Data with Baraa – Tableau course datasets (GitHub)\nhttps://github.com/DataWithBaraa/tableau-ultimate-course\n\nFollow along: Download the course datasets and rebuild each join, union and relationship yourself as you watch.\n\n🏁 Builds toward Milestone 1: Python ETL pipeline + first Tableau dashboard\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2026-11-21",
+  "start": "14:00",
+  "end": "16:00"
+ },
+ {
+  "n": 10,
+  "kind": "night",
+  "summary": "Learn 10 – Python 1: setup, strings, lists",
+  "description": "Learning night · 1 h · Data foundations + Tableau · session 10 of 64\n\n▶ Python Tutorial for Beginners 1: Install and Setup for Mac and Windows – length not confirmed\nhttps://www.youtube.com/watch?v=YYXdXT2l-Gg\n▶ Python Tutorial for Beginners 2: Strings - Working with Textual Data – length not confirmed\nhttps://www.youtube.com/watch?v=k9TUPpGqYTo\n▶ Python Tutorial for Beginners 4: Lists, Tuples, and Sets – length not confirmed\nhttps://www.youtube.com/watch?v=W8KRzm-HUcc\n📖 The Python Tutorial (official) – sections 3 and 5\nhttps://docs.python.org/3/tutorial/index.html\n\n🏁 Builds toward Milestone 1: Python ETL pipeline + first Tableau dashboard\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2026-11-23",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 11,
+  "kind": "night",
+  "summary": "Learn 11 – Python 2: dicts, conditionals, loops, functions",
+  "description": "Learning night · 1 h · Data foundations + Tableau · session 11 of 64\n\n▶ Python Tutorial for Beginners 5: Dictionaries\nhttps://www.youtube.com/watch?v=daefaLgNkw0\n▶ Python Tutorial for Beginners 6: Conditionals and Booleans\nhttps://www.youtube.com/watch?v=DZwmZ8Usvnk\n▶ Python Tutorial for Beginners 7: Loops and Iterations\nhttps://www.youtube.com/watch?v=6iF8Xb7Z3wQ\n▶ Python Tutorial for Beginners 8: Functions\nhttps://www.youtube.com/watch?v=9Os0o3wzS_I\n📖 The Python Tutorial – More control flow tools (if, for, functions)\nhttps://docs.python.org/3/tutorial/controlflow.html\n\n🏁 Builds toward Milestone 1: Python ETL pipeline + first Tableau dashboard\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2026-11-24",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 12,
+  "kind": "night",
+  "summary": "Learn 12 – pandas for data work",
+  "description": "Learning night · 1 h · Data foundations + Tableau · session 12 of 64\n\n▶ Python Pandas Tutorial (Part 1): Getting Started with Data Analysis\nhttps://www.youtube.com/watch?v=ZyhVh-qRZPA\n▶ Python Pandas Tutorial (Part 2): DataFrame and Series Basics\nhttps://www.youtube.com/watch?v=zmdjNSmRXF4\n▶ Python Pandas Tutorial (Part 4): Filtering\nhttps://www.youtube.com/watch?v=Lw2rlcxScZY\n📖 10 minutes to pandas (official)\nhttps://pandas.pydata.org/docs/user_guide/10min.html\n\n🏁 Builds toward Milestone 1: Python ETL pipeline + first Tableau dashboard\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2026-11-25",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 13,
+  "kind": "night",
+  "summary": "Learn 13 – APIs, JSON and CSV",
+  "description": "Learning night · 1 h · Data foundations + Tableau · session 13 of 64\n\n▶ Python Tutorial: Working with JSON Data using the json Module\nhttps://www.youtube.com/watch?v=9N6a-VLBa2I\n▶ Python Requests Tutorial: Request Web Pages, Download Images, POST Data, Read JSON, and More\nhttps://www.youtube.com/watch?v=tb8gHvYlCFs\n📖 Open-Meteo weather API docs (no key for non-commercial use)\nhttps://open-meteo.com/en/docs\n\nTry it (optional): call the Open-Meteo API for Manila (latitude 14.6, longitude 121.0) and print the hourly temperatures.\n\n🏁 Builds toward Milestone 1: Python ETL pipeline + first Tableau dashboard\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2026-11-26",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 14,
+  "kind": "lab",
+  "summary": "Lab 14 – Tableau: organising, filters and parameters",
+  "description": "Saturday lab · 2 h · Data foundations + Tableau · session 14 of 64\n\n▶ Tableau Ultimate Full Course (21 Hours) for Beginners - From Zero to HERO – 41 min (4:57:26–5:38:37) organising\nhttps://www.youtube.com/watch?v=K3pXnbniUcM&t=17846s\n▶ Tableau Ultimate Full Course (21 Hours) for Beginners - From Zero to HERO – 35 min (6:12:55–6:48:05) filters\nhttps://www.youtube.com/watch?v=K3pXnbniUcM&t=22375s\n📖 Tableau help – Filter data from your views\nhttps://help.tableau.com/current/pro/desktop/en-us/filtering.htm\n📖 Tableau help – Create parameters\nhttps://help.tableau.com/current/pro/desktop/en-us/parameters_create.htm\n\nFollow along: Build a sales view with a hierarchy, a Top N set and a parameter that switches the measure, following the video.\n\n🏁 Builds toward Milestone 1: Python ETL pipeline + first Tableau dashboard\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2026-11-28",
+  "start": "14:00",
+  "end": "16:00"
+ },
+ {
+  "n": 15,
+  "kind": "night",
+  "summary": "Learn 15 – ETL vs ELT",
+  "description": "Learning night · 1 h · Data foundations + Tableau · session 15 of 64\n\n▶ Data Engineering Course for Beginners – 26 min (1:04:32–1:31:03)\nhttps://www.youtube.com/watch?v=PHsC_t0j1dU&t=3872s\n📖 DataTalksClub Data Engineering Zoomcamp (free, GitHub)\nhttps://github.com/DataTalksClub/data-engineering-zoomcamp\n\n🏁 Builds toward Milestone 1: Python ETL pipeline + first Tableau dashboard\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2026-11-30",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 16,
+  "kind": "night",
+  "summary": "Learn 16 – pandas: grouping and cleaning",
+  "description": "Learning night · 1 h · Data foundations + Tableau · session 16 of 64\n\n▶ Python Pandas Tutorial (Part 8): Grouping and Aggregating\nhttps://www.youtube.com/watch?v=txMdrV1Ut64\n▶ Python Pandas Tutorial (Part 9): Cleaning Data\nhttps://www.youtube.com/watch?v=KdmPHEnPJPs\n📖 10 minutes to pandas (official)\nhttps://pandas.pydata.org/docs/user_guide/10min.html\n\n🏁 Builds toward Milestone 1: Python ETL pipeline + first Tableau dashboard\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2026-12-01",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 17,
+  "kind": "night",
+  "summary": "Learn 17 – Tableau calculations",
+  "description": "Learning night · 1 h · Data foundations + Tableau · session 17 of 64\n\n▶ Tableau Ultimate Full Course (21 Hours) for Beginners - From Zero to HERO – 33 min (8:32:09–9:05:56)\nhttps://www.youtube.com/watch?v=K3pXnbniUcM&t=30729s\n📖 Tableau help – Get started with calculations\nhttps://help.tableau.com/current/pro/desktop/en-us/calculations_calculatedfields_create.htm\n\n🏁 Builds toward Milestone 1: Python ETL pipeline + first Tableau dashboard\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2026-12-02",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 18,
+  "kind": "night",
+  "summary": "Learn 18 – Tableau dashboards and publishing",
+  "description": "Learning night · 1 h · Data foundations + Tableau · session 18 of 64\n\n▶ Tableau Ultimate Full Course (21 Hours) for Beginners - From Zero to HERO – 26 min (17:55:35–18:22:08) dashboards\nhttps://www.youtube.com/watch?v=K3pXnbniUcM&t=64535s\n📖 Tableau help – Use parameters to make views more interactive\nhttps://help.tableau.com/current/pro/desktop/en-us/changing-views-using-parameters.htm\n\n🏁 Builds toward Milestone 1: Python ETL pipeline + first Tableau dashboard\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2026-12-03",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 19,
+  "kind": "lab",
+  "summary": "Lab 19 – MILESTONE 1: Python ETL pipeline + Tableau",
+  "description": "Saturday lab · 2 h · Data foundations + Tableau · session 19 of 64\n\n📖 Open-Meteo weather API docs (no key for non-commercial use)\nhttps://open-meteo.com/en/docs\n📖 DataTalksClub Data Engineering Zoomcamp (free, GitHub)\nhttps://github.com/DataTalksClub/data-engineering-zoomcamp\n\nFollow along: Build it step by step: extract (Open-Meteo API + a CSV), transform (pandas), load (SQLite), then export a CSV and build a small Tableau Public dashboard.\n\n🏁 MILESTONE 1: Python ETL pipeline + first Tableau dashboard. Pull weather data from a free API plus a CSV, clean it with pandas, load it into SQLite, then visualise it on Tableau Public.\nDone when: One command (python etl.py) runs the pipeline; The data lands in a SQLite table; A small Tableau Public dashboard shows the result; A short README says what it does.\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2026-12-05",
+  "start": "14:00",
+  "end": "16:00"
+ },
+ {
+  "n": 20,
+  "kind": "night",
+  "summary": "Learn 20 – Docker essentials",
+  "description": "Learning night · 1 h · Data engineering tools · session 20 of 64\n\n▶ Docker Tutorial for Beginners [FULL COURSE in 3 Hours] – 66 min (0:00–1:06:39) (Watch at 1.25x speed (about 53 min).)\nhttps://www.youtube.com/watch?v=3c-iBn73dDE&t=0s\n📖 DataTalksClub Data Engineering Zoomcamp (free, GitHub)\nhttps://github.com/DataTalksClub/data-engineering-zoomcamp\n\n🏁 Builds toward Milestone 2: Orchestrated pipeline with Airflow and dbt\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2026-12-07",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 21,
+  "kind": "night",
+  "summary": "Learn 21 – Airflow 1: DAGs and orchestration",
+  "description": "Learning night · 1 h · Data engineering tools · session 21 of 64\n\n▶ Data Engineering Course for Beginners – 37 min (2:04:11–2:41:14)\nhttps://www.youtube.com/watch?v=PHsC_t0j1dU&t=7451s\n📖 Airflow 101: Building Your First Workflow (Airflow docs)\nhttps://airflow.apache.org/docs/apache-airflow/stable/tutorial/fundamentals.html\n\n🏁 Builds toward Milestone 2: Orchestrated pipeline with Airflow and dbt\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2026-12-08",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 22,
+  "kind": "night",
+  "summary": "Learn 22 – Airflow 2: TaskFlow, retries, schedules",
+  "description": "Learning night · 1 h · Data engineering tools · session 22 of 64\n\n▶ Airflow Tutorial for Beginners - Full Course in 2 Hours – 22 min (40:09–1:02:09) (Python operator, XComs, TaskFlow API, catch-up. Recorded on Airflow 2: some imports and UI screens differ in Airflow 3, so follow the Airflow 3 docs for code.)\nhttps://www.youtube.com/watch?v=K9AnJ9_ZAXE&t=2409s\n📖 Airflow docs – Pythonic DAGs with the TaskFlow API (Airflow 3)\nhttps://airflow.apache.org/docs/apache-airflow/stable/tutorial/taskflow.html\n\n🏁 Builds toward Milestone 2: Orchestrated pipeline with Airflow and dbt\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2026-12-09",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 23,
+  "kind": "night",
+  "summary": "Learn 23 – dbt 1: models and sources",
+  "description": "Learning night · 1 h · Data engineering tools · session 23 of 64\n\n▶ Data Engineering Course for Beginners – 33 min (1:31:03–2:04:11)\nhttps://www.youtube.com/watch?v=PHsC_t0j1dU&t=5463s\n📖 dbt Fundamentals – free official course (~5 h)\nhttps://learn.getdbt.com/courses/dbt-fundamentals\n\n🏁 Builds toward Milestone 2: Orchestrated pipeline with Airflow and dbt\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2026-12-10",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 24,
+  "kind": "lab",
+  "summary": "Lab 24 – Lab: Postgres and Airflow in Docker",
+  "description": "Saturday lab · 2 h · Data engineering tools · session 24 of 64\n\n▶ Airflow DAG: Coding your first DAG for Beginners – length not confirmed\nhttps://www.youtube.com/watch?v=IH1-0hwFZRQ\n📖 Airflow 101: Building Your First Workflow (Airflow docs)\nhttps://airflow.apache.org/docs/apache-airflow/stable/tutorial/fundamentals.html\n📖 Airflow docs – Pythonic DAGs with the TaskFlow API (Airflow 3)\nhttps://airflow.apache.org/docs/apache-airflow/stable/tutorial/taskflow.html\n\nFollow along: Run Postgres in Docker (docker run -d --name pg -e POSTGRES_PASSWORD=pass -p 5432:5432 postgres:16). Start Airflow with the official Docker Compose file. Turn your Milestone 1 script into a 3-task DAG and trigger it.\n\n🏁 Builds toward Milestone 2: Orchestrated pipeline with Airflow and dbt\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2026-12-12",
+  "start": "14:00",
+  "end": "16:00"
+ },
+ {
+  "n": 25,
+  "kind": "night",
+  "summary": "Learn 25 – dbt 2: data modelling and tests",
+  "description": "Learning night · 1 h · Data engineering tools · session 25 of 64\n\n▶ SQL Full Course for Beginners (30 Hours) – From Zero to Hero – 71 min (23:21:04–24:32:54) (Watch at 1.5x speed (about 47 min). Data warehouse project: medallion layers.)\nhttps://www.youtube.com/watch?v=SSKVgrwhzus&t=84064s\n📖 dbt Fundamentals – free official course (~5 h)\nhttps://learn.getdbt.com/courses/dbt-fundamentals\n\n🏁 Builds toward Milestone 2: Orchestrated pipeline with Airflow and dbt\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2026-12-14",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 26,
+  "kind": "night",
+  "summary": "Learn 26 – Modern data stack and streaming (overview)",
+  "description": "Learning night · 1 h · Data engineering tools · session 26 of 64\n\n▶ Data Engineering Course for Beginners – 20 min (2:41:14–3:01:54)\nhttps://www.youtube.com/watch?v=PHsC_t0j1dU&t=9674s\n▶ Apache Kafka in 5 minutes – ~5 min\nhttps://www.youtube.com/watch?v=PzPXRmVHMxI\n▶ Apache Kafka 101: Introduction (2023) – length not confirmed\nhttps://www.youtube.com/watch?v=qu96DFXtbG4\n📖 Apache Kafka Quickstart (Kafka 4.4)\nhttps://kafka.apache.org/quickstart\n\n🏁 Builds toward Milestone 2: Orchestrated pipeline with Airflow and dbt\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2026-12-15",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 27,
+  "kind": "night",
+  "summary": "Learn 27 – Spark and the lakehouse (overview)",
+  "description": "Learning night · 1 h · Data engineering tools · session 27 of 64\n\n▶ PySpark Tutorial – first ~30 min (Concepts only, no install needed.)\nhttps://www.youtube.com/watch?v=_C8kWso4ne4&t=10s\n▶ Fundamentals Of Data Engineering Masterclass – 12 min (2:32:32–2:45:20)\nhttps://www.youtube.com/watch?v=hf2go3E2m8g&t=9152s\n📖 PySpark docs – Quickstart: DataFrame\nhttps://spark.apache.org/docs/latest/api/python/getting_started/quickstart_df.html\n📖 Databricks Free Edition – sign up and limits\nhttps://docs.databricks.com/aws/en/getting-started/free-edition\n\n🏁 Builds toward Milestone 2: Orchestrated pipeline with Airflow and dbt\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2026-12-16",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 28,
+  "kind": "night",
+  "summary": "Learn 28 – Tableau: LOD expressions and table calculations",
+  "description": "Learning night · 1 h · Data engineering tools · session 28 of 64\n\n▶ Tableau Ultimate Full Course (21 Hours) for Beginners - From Zero to HERO – 52 min (13:16:13–14:08:55) FIXED / EXCLUDE / INCLUDE\nhttps://www.youtube.com/watch?v=K3pXnbniUcM&t=47773s\n📖 Tableau help – Level of Detail Expressions\nhttps://help.tableau.com/current/pro/desktop/en-us/calculations_calculatedfields_lod.htm\n\n🏁 Builds toward Milestone 2: Orchestrated pipeline with Airflow and dbt\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2026-12-17",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 29,
+  "kind": "lab",
+  "summary": "Lab 29 – MILESTONE 2: Airflow + dbt pipeline + Tableau",
+  "description": "Saturday lab · 2 h · Data engineering tools · session 29 of 64\n\n📖 dbt Fundamentals – free official course (~5 h)\nhttps://learn.getdbt.com/courses/dbt-fundamentals\n📖 Airflow docs – Pythonic DAGs with the TaskFlow API (Airflow 3)\nhttps://airflow.apache.org/docs/apache-airflow/stable/tutorial/taskflow.html\n\nFollow along: Add dbt to your Docker Postgres. DAG: ingest → dbt run → dbt test, daily. Export the final dbt table to CSV and chart it in Tableau Public.\n\n🏁 MILESTONE 2: Orchestrated pipeline with Airflow and dbt. Run your Milestone 1 pipeline daily in Airflow, with dbt building and testing tables in Postgres (all in Docker), and chart the dbt output in Tableau.\nDone when: An Airflow DAG runs ingest → dbt run → dbt test; dbt tests pass; A Tableau view built from the dbt output; README with a simple architecture sketch.\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2026-12-19",
+  "start": "14:00",
+  "end": "16:00"
+ },
+ {
+  "n": 30,
+  "kind": "night",
+  "summary": "Learn 30 – Cloud fundamentals",
+  "description": "Learning night · 1 h · AWS for data · session 30 of 64\n\n▶ Fundamentals Of Data Engineering Masterclass – 22 min (2:03:16–2:25:57)\nhttps://www.youtube.com/watch?v=hf2go3E2m8g&t=7396s\n📖 AWS – What is Cloud Computing?\nhttps://aws.amazon.com/what-is-cloud-computing/\n📖 AWS – Six advantages of cloud computing\nhttps://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html\n\n🏁 Builds toward Milestone 3: Serverless AWS data pipeline\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2026-12-21",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 31,
+  "kind": "night",
+  "summary": "Learn 31 – AWS global infrastructure and core services",
+  "description": "Learning night · 1 h · AWS for data · session 31 of 64\n\n▶ AWS Certified Cloud Practitioner Certification Course (CLF-C02) – the 'Global Infrastructure' section (~40 min), picked from the chapter list\nhttps://www.youtube.com/watch?v=NhDYbskXRgc\n📖 Your roadmap page (Week 1 lessons)\nhttps://claude.ai/artifact/DtQzj1iNy5Ph39XKje8jU3\n\n🏁 Builds toward Milestone 3: Serverless AWS data pipeline\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2026-12-22",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 32,
+  "kind": "night",
+  "summary": "Learn 32 – AWS account setup the safe way",
+  "description": "Learning night · 1 h · AWS for data · session 32 of 64\n\n▶ AWS Solutions Architect Associate Certification (SAA-C03) – Full Course – 17 min (0:34:47–0:52:38)\nhttps://www.youtube.com/watch?v=c3Cn4xYfxJY&t=2087s\n📖 AWS Free Tier (credits, Free vs Paid plan)\nhttps://aws.amazon.com/free\n📖 AWS Budgets – Creating a budget\nhttps://docs.aws.amazon.com/cost-management/latest/userguide/budgets-create.html\n📖 Security best practices in IAM\nhttps://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html\n\nTry it (optional): Create the account (Free plan), turn on root MFA, create an admin user in IAM Identity Center, and set a $5 monthly budget with an email alert.\n\n🏁 Builds toward Milestone 3: Serverless AWS data pipeline\n\n💸 FREE · never commit access keys to GitHub\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2026-12-23",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 33,
+  "kind": "night",
+  "summary": "Learn 33 – IAM: users, groups, roles, policies",
+  "description": "Learning night · 1 h · AWS for data · session 33 of 64\n\n▶ AWS Solutions Architect Associate Certification (SAA-C03) – Full Course – first ~45 min of the IAM chapter\nhttps://www.youtube.com/watch?v=c3Cn4xYfxJY&t=63222s\n📖 Security best practices in IAM\nhttps://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html\n\n🏁 Builds toward Milestone 3: Serverless AWS data pipeline\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2027-01-04",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 34,
+  "kind": "night",
+  "summary": "Learn 34 – Amazon S3",
+  "description": "Learning night · 1 h · AWS for data · session 34 of 64\n\n▶ AWS Solutions Architect Associate Certification (SAA-C03) – Full Course – first ~45 min of the S3 chapter\nhttps://www.youtube.com/watch?v=c3Cn4xYfxJY&t=3158s\n📖 Getting started with Amazon S3\nhttps://docs.aws.amazon.com/AmazonS3/latest/userguide/GetStartedWithS3.html\n\n🏁 Builds toward Milestone 3: Serverless AWS data pipeline\n\n💸 LOW: S3 storage and requests are cheap at this size. Keep the bucket for the pipeline project; delete test objects.\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2027-01-05",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 35,
+  "kind": "night",
+  "summary": "Learn 35 – EC2 basics",
+  "description": "Learning night · 1 h · AWS for data · session 35 of 64\n\n▶ AWS Solutions Architect Associate Certification (SAA-C03) – Full Course – first ~45 min of the EC2 chapter\nhttps://www.youtube.com/watch?v=c3Cn4xYfxJY&t=69243s\n📖 Get started with Amazon EC2 (tutorial)\nhttps://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html\n\n🏁 Builds toward Milestone 3: Serverless AWS data pipeline\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2027-01-06",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 36,
+  "kind": "night",
+  "summary": "Learn 36 – Networking basics: VPC",
+  "description": "Learning night · 1 h · AWS for data · session 36 of 64\n\n▶ AWS Solutions Architect Associate Certification (SAA-C03) – Full Course – first ~45 min of the VPC chapter\nhttps://www.youtube.com/watch?v=c3Cn4xYfxJY&t=44392s\n📖 Example: VPC with servers in private subnets and NAT\nhttps://docs.aws.amazon.com/vpc/latest/userguide/vpc-example-private-subnets-nat.html\n\n🏁 Builds toward Milestone 3: Serverless AWS data pipeline\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2027-01-07",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 37,
+  "kind": "lab",
+  "summary": "Lab 37 – Lab: IAM, S3 and EC2 hands-on",
+  "description": "Saturday lab · 2 h · AWS for data · session 37 of 64\n\n📖 Getting started with Amazon S3\nhttps://docs.aws.amazon.com/AmazonS3/latest/userguide/GetStartedWithS3.html\n📖 Get started with Amazon EC2 (tutorial)\nhttps://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html\n\nFollow along: Create an S3 bucket with versioning and upload a file with boto3. Create an IAM role with read-only access to one bucket prefix. Optional: launch a Free-Tier EC2 instance, connect with EC2 Instance Connect, then terminate it.\n\n🏁 Builds toward Milestone 3: Serverless AWS data pipeline\n\n💸 CHARGES POSSIBLE if an EC2 instance or its volume is left running. CLEANUP: before you stop, terminate the instance and delete leftover volumes. Keep the S3 bucket for Milestone 3.\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2027-01-09",
+  "start": "14:00",
+  "end": "16:00"
+ },
+ {
+  "n": 38,
+  "kind": "night",
+  "summary": "Learn 38 – Databases on AWS: RDS, DynamoDB, Redshift",
+  "description": "Learning night · 1 h · AWS for data · session 38 of 64\n\n▶ AWS Solutions Architect Associate Certification (SAA-C03) – Full Course – first ~25 min (RDS)\nhttps://www.youtube.com/watch?v=c3Cn4xYfxJY&t=150249s\n▶ AWS Solutions Architect Associate Certification (SAA-C03) – Full Course – 18 min (37:19:23–37:37:50) Redshift\nhttps://www.youtube.com/watch?v=c3Cn4xYfxJY&t=134363s\n📖 Get started with Amazon Redshift Serverless\nhttps://docs.aws.amazon.com/redshift/latest/gsg/new-user-serverless.html\n\n🏁 Builds toward Milestone 3: Serverless AWS data pipeline\n\n💸 Read only today. RDS, Aurora and Redshift bill per hour, so don't create them.\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2027-01-11",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 39,
+  "kind": "night",
+  "summary": "Learn 39 – AWS Lambda and serverless",
+  "description": "Learning night · 1 h · AWS for data · session 39 of 64\n\n▶ AWS Solutions Architect Associate Certification (SAA-C03) – Full Course – first ~45 min of the Lambda chapter\nhttps://www.youtube.com/watch?v=c3Cn4xYfxJY&t=108996s\n📖 Tutorial: Using an Amazon S3 trigger to invoke a Lambda function\nhttps://docs.aws.amazon.com/lambda/latest/dg/with-s3-example.html\n\n🏁 Builds toward Milestone 3: Serverless AWS data pipeline\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2027-01-12",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 40,
+  "kind": "night",
+  "summary": "Learn 40 – Glue Data Catalog and Athena",
+  "description": "Learning night · 1 h · AWS for data · session 40 of 64\n\n▶ AWS Solutions Architect Associate Certification (SAA-C03) – Full Course – 15 min (37:37:50–37:53:46) Athena\nhttps://www.youtube.com/watch?v=c3Cn4xYfxJY&t=135470s\n▶ AWS Solutions Architect Associate Certification (SAA-C03) – Full Course – 42 min (40:47:11–41:29:41) Glue + Lake Formation (Watch at 1.25x speed (about 34 min).)\nhttps://www.youtube.com/watch?v=c3Cn4xYfxJY&t=146831s\n📖 Tutorial: Adding an AWS Glue crawler\nhttps://docs.aws.amazon.com/glue/latest/dg/tutorial-add-crawler.html\n📖 Get started – Amazon Athena\nhttps://docs.aws.amazon.com/athena/latest/ug/getting-started.html\n\n🏁 Builds toward Milestone 3: Serverless AWS data pipeline\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2027-01-13",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 41,
+  "kind": "night",
+  "summary": "Learn 41 – Event-driven AWS: EventBridge and Kinesis",
+  "description": "Learning night · 1 h · AWS for data · session 41 of 64\n\n▶ AWS Solutions Architect Associate Certification (SAA-C03) – Full Course – 36 min (29:40:04–30:16:36) CloudWatch & EventBridge\nhttps://www.youtube.com/watch?v=c3Cn4xYfxJY&t=106804s\n▶ AWS Solutions Architect Associate Certification (SAA-C03) – Full Course – 27 min (34:32:38–34:59:52) Kinesis (optional, only if you have time)\nhttps://www.youtube.com/watch?v=c3Cn4xYfxJY&t=124358s\n📖 What is Amazon EventBridge?\nhttps://docs.aws.amazon.com/eventbridge/latest/userguide/eb-what-is.html\n📖 What is Amazon Kinesis Data Streams?\nhttps://docs.aws.amazon.com/streams/latest/dev/introduction.html\n\n🏁 Builds toward Milestone 3: Serverless AWS data pipeline\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2027-01-14",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 42,
+  "kind": "lab",
+  "summary": "Lab 42 – Lab: S3 → Lambda, and Glue + Athena",
+  "description": "Saturday lab · 2 h · AWS for data · session 42 of 64\n\n📖 Tutorial: Using an Amazon S3 trigger to invoke a Lambda function\nhttps://docs.aws.amazon.com/lambda/latest/dg/with-s3-example.html\n📖 Tutorial: Adding an AWS Glue crawler\nhttps://docs.aws.amazon.com/glue/latest/dg/tutorial-add-crawler.html\n📖 Get started – Amazon Athena\nhttps://docs.aws.amazon.com/athena/latest/ug/getting-started.html\n\nFollow along: Do the official S3-trigger Lambda tutorial end to end. Then run a Glue crawler on a small CSV in your bucket and query it in Athena (set an S3 query-results location first).\n\n🏁 Builds toward Milestone 3: Serverless AWS data pipeline\n\n💸 LOW: crawler runs bill per DPU-hour and Athena per data scanned. Delete the tutorial function and the crawler when done.\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2027-01-16",
+  "start": "14:00",
+  "end": "16:00"
+ },
+ {
+  "n": 43,
+  "kind": "night",
+  "summary": "Learn 43 – Step Functions: orchestrating AWS",
+  "description": "Learning night · 1 h · AWS for data · session 43 of 64\n\n▶ AWS Solutions Architect Associate Certification (SAA-C03) – Full Course – first ~45 min of the Step Functions chapter\nhttps://www.youtube.com/watch?v=c3Cn4xYfxJY&t=114591s\n📖 Get started with AWS Step Functions\nhttps://docs.aws.amazon.com/step-functions/latest/dg/getting-started.html\n\n🏁 Builds toward Milestone 3: Serverless AWS data pipeline\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2027-01-18",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 44,
+  "kind": "night",
+  "summary": "Learn 44 – Security and cost: CloudTrail, KMS, budgets",
+  "description": "Learning night · 1 h · AWS for data · session 44 of 64\n\n▶ AWS Solutions Architect Associate Certification (SAA-C03) – Full Course – ~30 min CloudTrail\nhttps://www.youtube.com/watch?v=c3Cn4xYfxJY&t=130912s\n▶ AWS Solutions Architect Associate Certification (SAA-C03) – Full Course – ~10 min KMS\nhttps://www.youtube.com/watch?v=c3Cn4xYfxJY&t=166905s\n📖 Security best practices in IAM\nhttps://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html\n📖 AWS Budgets – Creating a budget\nhttps://docs.aws.amazon.com/cost-management/latest/userguide/budgets-create.html\n\n🏁 Builds toward Milestone 3: Serverless AWS data pipeline\n\n💸 FREE. Secrets Manager charges per secret per month – read about it, don't create one.\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2027-01-19",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 45,
+  "kind": "night",
+  "summary": "Learn 45 – Infrastructure as code: Terraform",
+  "description": "Learning night · 1 h · AWS for data · session 45 of 64\n\n▶ Terraform Course - Automate your AWS cloud infrastructure – 48 min (0:20:51–1:09:45)\nhttps://www.youtube.com/watch?v=SLB_c_ayRMo&t=1251s\n📖 HashiCorp – Get started with Terraform on AWS (tutorial)\nhttps://developer.hashicorp.com/terraform/tutorials/aws-get-started\n\n🏁 Builds toward Milestone 3: Serverless AWS data pipeline\n\n💸 FREE if you destroy. Note: the 2020 video uses older provider syntax; follow current Terraform AWS provider docs when errors appear.\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2027-01-20",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 46,
+  "kind": "night",
+  "summary": "Learn 46 – CI/CD with GitHub Actions",
+  "description": "Learning night · 1 h · AWS for data · session 46 of 64\n\n▶ Docker Tutorial for Beginners [FULL COURSE in 3 Hours] – 22 min (1:42:02–2:04:36) Dockerfile\nhttps://www.youtube.com/watch?v=3c-iBn73dDE&t=6122s\n📖 Quickstart for GitHub Actions\nhttps://docs.github.com/en/actions/get-started/quickstart\n\n🏁 Builds toward Milestone 3: Serverless AWS data pipeline\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2027-01-21",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 47,
+  "kind": "lab",
+  "summary": "Lab 47 – MILESTONE 3: Serverless AWS data pipeline",
+  "description": "Saturday lab · 2 h · AWS for data · session 47 of 64\n\n▶ Create a basic Data Lake in S3 – crawled with Glue and queried with Athena – 10 min (Recorded in 2021: console screens look a little different now.)\nhttps://www.youtube.com/watch?v=byKbYwOJwps\n📖 Tutorial: Using an Amazon S3 trigger to invoke a Lambda function\nhttps://docs.aws.amazon.com/lambda/latest/dg/with-s3-example.html\n📖 Tutorial: Adding an AWS Glue crawler\nhttps://docs.aws.amazon.com/glue/latest/dg/tutorial-add-crawler.html\n📖 Get started – Amazon Athena\nhttps://docs.aws.amazon.com/athena/latest/ug/getting-started.html\n\nFollow along: Upload a CSV to raw/ → Lambda (Python, with the AWS SDK for pandas managed layer) cleans it and writes Parquet to curated/ → Glue crawler → Athena query. Keep the bucket and table for the capstone.\n\n🏁 MILESTONE 3: Serverless AWS data pipeline. Drop a CSV into S3 and have Lambda clean it to Parquet, a Glue crawler catalogue it and Athena query it.\nDone when: Uploading a file triggers the pipeline end to end; Athena returns query results from the curated data; README with architecture and expected costs; Anything you don't need for the capstone is deleted.\n\n💸 LOW. Delete the crawler and any test files you don't need. Keep the curated data for the capstone.\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2027-01-23",
+  "start": "14:00",
+  "end": "16:00"
+ },
+ {
+  "n": 48,
+  "kind": "night",
+  "summary": "Learn 48 – Tableau charts in depth",
+  "description": "Learning night · 1 h · Analytics with Tableau on AWS · session 48 of 64\n\n▶ Tableau Ultimate Full Course (21 Hours) for Beginners - From Zero to HERO – skim the charts section, ~45 min\nhttps://www.youtube.com/watch?v=K3pXnbniUcM&t=50935s\n📖 Tableau help – Use parameters to make views more interactive\nhttps://help.tableau.com/current/pro/desktop/en-us/changing-views-using-parameters.htm\n\n🏁 Builds toward Milestone 4: Interactive Tableau dashboard\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2027-01-25",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 49,
+  "kind": "night",
+  "summary": "Learn 49 – Tableau products: Desktop, Public, Prep, Cloud, Server, Next",
+  "description": "Learning night · 1 h · Analytics with Tableau on AWS · session 49 of 64\n\n📖 Tableau free training videos (Desktop, Prep, Cloud/Server)\nhttps://www.tableau.com/learn/training\n📖 Tableau Next Overview (help)\nhttps://help.tableau.com/current/tableau-next/en-us/tableau_next_overview.htm\n\n🏁 Builds toward Milestone 4: Interactive Tableau dashboard\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2027-01-26",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 50,
+  "kind": "night",
+  "summary": "Learn 50 – Dashboard design and storytelling",
+  "description": "Learning night · 1 h · Analytics with Tableau on AWS · session 50 of 64\n\n📖 Tableau Public – Viz of the Day gallery\nhttps://public.tableau.com/app/discover/viz-of-the-day\n📖 Tableau help – Use parameters to make views more interactive\nhttps://help.tableau.com/current/pro/desktop/en-us/changing-views-using-parameters.htm\n\nTry it (optional): Browse Viz of the Day for 20 minutes and note 3 design ideas you like.\n\n🏁 Builds toward Milestone 4: Interactive Tableau dashboard\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2027-01-27",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 51,
+  "kind": "night",
+  "summary": "Learn 51 – Tableau Cloud, permissions and Bridge",
+  "description": "Learning night · 1 h · Analytics with Tableau on AWS · session 51 of 64\n\n▶ Tableau free training videos (Tableau Cloud / Server section) (Pick the 'Getting started with Tableau Cloud' videos (~30 min). Free Tableau account sign-in may be required.)\nhttps://www.tableau.com/learn/training\n📖 Tableau Cloud help – Permissions\nhttps://help.tableau.com/current/online/en-us/permissions.htm\n📖 Tableau Cloud help – Use Bridge to Keep Data Fresh\nhttps://help.tableau.com/current/online/en-us/qs_refresh_local_data.htm\n\n🏁 Builds toward Milestone 4: Interactive Tableau dashboard\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2027-01-28",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 52,
+  "kind": "lab",
+  "summary": "Lab 52 – MILESTONE 4: Interactive Tableau dashboard",
+  "description": "Saturday lab · 2 h · Analytics with Tableau on AWS · session 52 of 64\n\n📖 Tableau help – Use parameters to make views more interactive\nhttps://help.tableau.com/current/pro/desktop/en-us/changing-views-using-parameters.htm\n📖 Tableau help – Level of Detail Expressions\nhttps://help.tableau.com/current/pro/desktop/en-us/calculations_calculatedfields_lod.htm\n\nFollow along: Build a one-page operations or sales dashboard from the course data (or your pipeline data): 4 KPIs, a trend, a breakdown, a map and a filter action. Publish it to Tableau Public.\n\n🏁 MILESTONE 4: Interactive Tableau dashboard. Publish a one-page interactive dashboard to Tableau Public: KPIs, a trend, a breakdown, a map and a filter action.\nDone when: Published on Tableau Public; Uses a calculated field and an LOD or table calculation; Has a filter or highlight action.\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2027-01-30",
+  "start": "14:00",
+  "end": "16:00"
+ },
+ {
+  "n": 53,
+  "kind": "night",
+  "summary": "Learn 53 – Row-level security in Tableau",
+  "description": "Learning night · 1 h · Analytics with Tableau on AWS · session 53 of 64\n\n📖 Tableau whitepaper – Row Level Security with Entitlements Tables\nhttps://www.tableau.com/learn/whitepapers/row-level-security-entitlements-tables\n📖 Tableau help – User Functions (USERNAME, ISMEMBEROF…)\nhttps://help.tableau.com/current/pro/desktop/en-us/functions_functions_user.htm\n\n🏁 Builds toward Milestone 5: Capstone: AWS → Tableau Cloud with row-level security\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2027-02-01",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 54,
+  "kind": "night",
+  "summary": "Learn 54 – Connecting Tableau to Amazon Athena",
+  "description": "Learning night · 1 h · Analytics with Tableau on AWS · session 54 of 64\n\n📖 Tableau help – Amazon Athena connector\nhttps://help.tableau.com/current/pro/desktop/en-us/examples_amazonathena.htm\n📖 AWS Big Data Blog – Building data lake visualizations with Amazon Athena and Tableau\nhttps://aws.amazon.com/blogs/big-data/building-aws-data-lake-visualizations-with-amazon-athena-and-tableau/\n\n🏁 Builds toward Milestone 5: Capstone: AWS → Tableau Cloud with row-level security\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2027-02-02",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 55,
+  "kind": "night",
+  "summary": "Learn 55 – Tableau Next and the Salesforce platform",
+  "description": "Learning night · 1 h · Analytics with Tableau on AWS · session 55 of 64\n\n📖 Tableau Next Overview (help)\nhttps://help.tableau.com/current/tableau-next/en-us/tableau_next_overview.htm\n📖 Trailhead – Unlock Actionable Data Insights with Tableau Next\nhttps://trailhead.salesforce.com/content/learn/trails/unlock-actionable-data-insights-with-tableau-next\n\n🏁 Builds toward Milestone 5: Capstone: AWS → Tableau Cloud with row-level security\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2027-02-03",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 56,
+  "kind": "night",
+  "summary": "Learn 56 – Capstone prep: architecture review",
+  "description": "Learning night · 1 h · Analytics with Tableau on AWS · session 56 of 64\n\n📖 AWS Big Data Blog – Building data lake visualizations with Amazon Athena and Tableau\nhttps://aws.amazon.com/blogs/big-data/building-aws-data-lake-visualizations-with-amazon-athena-and-tableau/\n📖 Security best practices in IAM\nhttps://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html\n\n🏁 Builds toward Milestone 5: Capstone: AWS → Tableau Cloud with row-level security\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2027-02-04",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 57,
+  "kind": "lab",
+  "summary": "Lab 57 – Lab: RLS and Tableau Cloud setup",
+  "description": "Saturday lab · 2 h · Analytics with Tableau on AWS · session 57 of 64\n\n📖 Tableau help – Create a user filter and secure it for publishing\nhttps://help.tableau.com/current/pro/desktop/en-us/publish_userfilters_create.htm\n📖 Tableau help – Amazon Athena connector\nhttps://help.tableau.com/current/pro/desktop/en-us/examples_amazonathena.htm\n\nFollow along: Start the Tableau Desktop and Tableau Cloud 14-day trials today (the capstone is next Saturday, so both stay active). Build an entitlement table (username, region), relate it to sales data and add a data source filter [Username] = USERNAME(). Then connect Tableau Desktop to your Athena table.\n\n🏁 Builds toward Milestone 5: Capstone: AWS → Tableau Cloud with row-level security\n\n💸 Athena per-query cost is tiny. Create a dedicated IAM user for Tableau and delete its access key after the capstone.\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2027-02-06",
+  "start": "14:00",
+  "end": "16:00"
+ },
+ {
+  "n": 58,
+  "kind": "night",
+  "summary": "Learn 58 – Catch-up night",
+  "description": "Learning night · 1 h · Analytics with Tableau on AWS · session 58 of 64\n\n📖 Your roadmap page\nhttps://claude.ai/artifact/DtQzj1iNy5Ph39XKje8jU3\n\n🏁 Builds toward Milestone 5: Capstone: AWS → Tableau Cloud with row-level security\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2027-02-08",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 59,
+  "kind": "night",
+  "summary": "Learn 59 – AWS cost and cleanup review",
+  "description": "Learning night · 1 h · Analytics with Tableau on AWS · session 59 of 64\n\n📖 AWS Budgets – Creating a budget\nhttps://docs.aws.amazon.com/cost-management/latest/userguide/budgets-create.html\n📖 Security best practices in IAM\nhttps://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html\n\n🏁 Builds toward Milestone 5: Capstone: AWS → Tableau Cloud with row-level security\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2027-02-09",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 60,
+  "kind": "night",
+  "summary": "Learn 60 – Extracts, live connections and performance",
+  "description": "Learning night · 1 h · Analytics with Tableau on AWS · session 60 of 64\n\n📖 Tableau help – Amazon Athena connector\nhttps://help.tableau.com/current/pro/desktop/en-us/examples_amazonathena.htm\n📖 Tableau Cloud help – Use Bridge to Keep Data Fresh\nhttps://help.tableau.com/current/online/en-us/qs_refresh_local_data.htm\n\n🏁 Builds toward Milestone 5: Capstone: AWS → Tableau Cloud with row-level security\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2027-02-10",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 61,
+  "kind": "night",
+  "summary": "Learn 61 – Capstone prep: refresh the data",
+  "description": "Learning night · 1 h · Analytics with Tableau on AWS · session 61 of 64\n\n📖 Get started – Amazon Athena\nhttps://docs.aws.amazon.com/athena/latest/ug/getting-started.html\n\nTry it (optional): Re-run your Milestone 3 pipeline so fresh curated data is in S3 and queryable in Athena.\n\n🏁 Builds toward Milestone 5: Capstone: AWS → Tableau Cloud with row-level security\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2027-02-11",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 62,
+  "kind": "lab",
+  "summary": "Lab 62 – MILESTONE 5: Capstone – AWS → Tableau Cloud with RLS",
+  "description": "Saturday lab · 2 h · Analytics with Tableau on AWS · session 62 of 64\n\n📖 Tableau help – Amazon Athena connector\nhttps://help.tableau.com/current/pro/desktop/en-us/examples_amazonathena.htm\n📖 Tableau whitepaper – Row Level Security with Entitlements Tables\nhttps://www.tableau.com/learn/whitepapers/row-level-security-entitlements-tables\n📖 Tableau Cloud help – Permissions\nhttps://help.tableau.com/current/online/en-us/permissions.htm\n📖 AWS Big Data Blog – Building data lake visualizations with Amazon Athena and Tableau\nhttps://aws.amazon.com/blogs/big-data/building-aws-data-lake-visualizations-with-amazon-athena-and-tableau/\n\nFollow along: Query your Athena table from Tableau Desktop, add the entitlement-table RLS, publish to your Tableau Cloud trial with group permissions, and test as two different users.\n\n🏁 MILESTONE 5: Capstone: AWS → Tableau Cloud with row-level security. Bring it together: curated data in S3, queried through Athena in Tableau Desktop, with row-level security, published to a Tableau Cloud trial.\nDone when: Tableau reads your data through Athena; Different users see different rows; README with the full architecture; AWS cleanup audit done.\n\n💸 LOW. Clean up AWS resources after taking screenshots.\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2027-02-13",
+  "start": "14:00",
+  "end": "16:00"
+ },
+ {
+  "n": 63,
+  "kind": "night",
+  "summary": "Learn 63 – Wrap-up: portfolio and GitHub",
+  "description": "Learning night · 1 h · Analytics with Tableau on AWS · session 63 of 64\n\n📖 GitHub Docs – Pinning items to your profile\nhttps://docs.github.com/en/account-and-profile/how-tos/profile-customization/pinning-items-to-your-profile\n\nTry it (optional): Pin your best 3–4 projects on your GitHub profile.\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2027-02-15",
+  "start": "20:30",
+  "end": "21:30"
+ },
+ {
+  "n": 64,
+  "kind": "night",
+  "summary": "Learn 64 – Final AWS cleanup and next steps",
+  "description": "Learning night · 1 h · Analytics with Tableau on AWS · session 64 of 64\n\n📖 AWS Budgets – Creating a budget\nhttps://docs.aws.amazon.com/cost-management/latest/userguide/budgets-create.html\n📖 Your roadmap page\nhttps://claude.ai/artifact/DtQzj1iNy5Ph39XKje8jU3\n\n💸 IMPORTANT: check every AWS Region you used and delete anything still running. Delete the Tableau IAM user's access key, then check Billing > Bills.\n\nCan't make it? Delete this event and the remaining sessions shift forward automatically.\nDetails and progress: https://claude.ai/artifact/CX4Z4QEzVZaTYiyWZr7d7Z",
+  "date": "2027-02-16",
+  "start": "20:30",
+  "end": "21:30"
+ }
+]

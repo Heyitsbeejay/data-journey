@@ -1,20 +1,24 @@
 # data-journey
 
-My 55-session sprint (Nov 9, 2026 – Feb 18, 2027; Monday to Thursday at 8 PM, 1.5–2 h each, Friday to Sunday free, with a Dec 24 – Jan 3 break) from data engineering foundations to AWS, automation, AI/ML and Tableau.
-Each day's work is pushed here. Daily notes live in Notion; progress is tracked on a live dashboard.
+My 64-session plan (Tue Nov 10, 2026 to Tue Feb 16, 2027) to get familiar with data engineering and AWS, with Tableau analytics built in at every stage.
 
-## The 8 phases
+- **Learning nights:** Monday to Thursday, 8:30 to 9:30 PM (Asia/Manila). One hour: watch, read, optionally try something.
+- **Saturday labs:** 2 to 4 PM. Hands-on practice and the milestone builds.
+- **No assignments.** Five milestone projects instead. Friday and Sunday stay free. Break from Dec 24 to Jan 3.
+- **Can't make a session?** Delete the calendar event and the rest shift forward (see [`plan/`](plan/README.md)).
 
-| # | Phase | Days | Dates | Portfolio output |
-|---|-------|------|-------|------------------|
-| 1 | DE Foundations: lifecycle, SQL, Python, pandas, APIs | 1–11 | Nov 9 – Nov 25 | Project 1: Python ETL pipeline |
-| 2 | DE Tools: Docker, Airflow, dbt, modern data stack | 12–17 | Nov 26 – Dec 7 | Project 2: Airflow + dbt on Postgres |
-| 3 | Advanced DE: Kafka, streaming, Spark, Databricks, lakehouse | 18–22 | Dec 8 – Dec 15 | Project 3: Medallion lakehouse |
-| 4 | Cloud & AWS: IAM, EC2, S3, VPC, databases, Lambda, Glue, Athena | 23–33 | Dec 16 – Jan 12 | AWS notes and policies |
-| 5 | Automation & DevOps: Step Functions, Terraform, CI/CD, n8n | 34–38 | Jan 13 – Jan 20 | Project 4: S3 → Lambda → Glue → Athena |
-| 6 | AI & ML: ML basics, SageMaker AI, Bedrock, RAG, agents | 39–44 | Jan 21 – Feb 1 | Project 5: Bedrock RAG assistant |
-| 7 | Tableau: products, calculations, LOD, dashboards, RLS | 45–52 | Feb 2 – Feb 15 | Tableau Public dashboard |
-| 8 | Integration: Tableau Cloud/Next, Athena, capstone | 53–55 | Feb 16 – Feb 18 | Capstone: AWS → Tableau with RLS |
+Daily notes live in Notion; progress is tracked on a live dashboard.
+
+## The 4 stages
+
+| # | Stage | Sessions | Dates | Milestone |
+|---|-------|----------|-------|-----------|
+| 1 | Data foundations + Tableau: lifecycle, Git, SQL, Python, pandas, APIs, Tableau basics | 1–19 | Nov 10 – Dec 5 | M1: Python ETL pipeline + first Tableau dashboard |
+| 2 | Data engineering tools: Docker, Airflow, dbt, streaming and Spark overviews, Tableau LODs | 20–29 | Dec 7 – Dec 19 | M2: Orchestrated pipeline with Airflow and dbt |
+| 3 | AWS for data: cloud basics, IAM, S3, EC2, VPC, databases, Lambda, Glue, Athena, Step Functions, Terraform, CI/CD | 30–47 | Dec 21 – Jan 23 | M3: Serverless AWS data pipeline |
+| 4 | Analytics with Tableau on AWS: charts, Tableau products, Cloud, RLS, Athena connector, Tableau Next | 48–64 | Jan 25 – Feb 16 | M4: Interactive Tableau dashboard · M5: Capstone, AWS → Tableau Cloud with RLS |
+
+Milestone dates are the original plan. They move if sessions are skipped; the calendar always has the current date.
 
 ## Folder map
 
@@ -24,24 +28,24 @@ Each day's work is pushed here. Daily notes live in Notion; progress is tracked 
 | `sql/` | Daily SQL practice and the cleaning project |
 | `python/` | Python scripts (cleaning, validation, API, boto3) |
 | `data/` | Small sample datasets (large files are git-ignored) |
-| `project1/` … `project5/` | Portfolio projects, each with its own README |
+| `project1/` … `project4/` | Milestones 1–4, each with its own README |
 | `dags/` | Airflow DAGs |
 | `dbt/` | dbt project |
 | `streaming/` | Kafka producer and consumer |
 | `spark/` | PySpark notebooks |
 | `aws/` | AWS setup notes, IAM policies, diagrams |
 | `iac/` | Terraform and CloudFormation |
-| `ml/` | ML notebooks and glossary |
 | `tableau/` | Tableau notes and links to Tableau Public |
 | `review/` | Weekly review answers |
-| `capstone/` | Final AWS → Tableau project |
+| `capstone/` | Milestone 5: AWS → Tableau Cloud capstone |
+| `plan/` | Schedule data and the auto-shift script |
 
 ## Rules I follow
 
 - Never commit passwords, access keys or `.env` files (see `.gitignore`).
 - Delete AWS resources at the end of every AWS session and check Billing.
-- One commit per day, message format: `Day N: <topic>`.
+- Commit message format: `Session N: <topic>` or `M1: <what changed>`.
 
 ## Progress
 
-- [ ] Phase 1 · [ ] Phase 2 · [ ] Phase 3 · [ ] Phase 4 · [ ] Phase 5 · [ ] Phase 6 · [ ] Phase 7 · [ ] Phase 8
+- [ ] M1 · [ ] M2 · [ ] M3 · [ ] M4 · [ ] M5 (capstone)
