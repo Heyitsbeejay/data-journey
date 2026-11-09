@@ -1,0 +1,12 @@
+product_code,product_name,product_family,business_unit,balance_side,ftp_rate_annual
+SA,Regular Savings,Deposit,Consumer Banking,liability,0.04
+CA,Checking Account,Deposit,Consumer Banking,liability,0.04
+TD,Time Deposit,Deposit,Consumer Banking,liability,0.05
+BCA,Business Checking,Deposit,Business Banking,liability,0.04
+CTD,Corporate Time Deposit,Deposit,Corporate Banking,liability,0.051
+CC,Credit Card,Card,Consumer Banking,asset,0.055
+PL,Personal Loan,Loan,Consumer Banking,asset,0.055
+AL,Auto Loan,Loan,Consumer Banking,asset,0.058
+HL,Housing Loan,Loan,Consumer Banking,asset,0.062
+SBL,SME Business Loan,Loan,Business Banking,asset,0.058
+CL,Corporate Term Loan,Loan,Corporate Banking,asset,0.056

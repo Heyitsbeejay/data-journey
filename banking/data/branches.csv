@@ -1,0 +1,21 @@
+branch_code,branch_name,region,monthly_opex_php
+BR001,NCR Branch 1,NCR,280000
+BR002,NCR Branch 2,NCR,331000
+BR003,NCR Branch 3,NCR,378000
+BR004,NCR Branch 4,NCR,381000
+BR005,NCR Branch 5,NCR,415000
+BR006,NCR Branch 6,NCR,276000
+BR007,NCR Branch 7,NCR,307000
+BR008,NCR Branch 8,NCR,403000
+BR009,North Branch 1,North & Central Luzon,409000
+BR010,North Branch 2,North & Central Luzon,392000
+BR011,North Branch 3,North & Central Luzon,357000
+BR012,North Branch 4,North & Central Luzon,450000
+BR013,South Branch 1,South Luzon,396000
+BR014,South Branch 2,South Luzon,390000
+BR015,South Branch 3,South Luzon,437000
+BR016,Visayas Branch 1,Visayas,448000
+BR017,Visayas Branch 2,Visayas,446000
+BR018,Visayas Branch 3,Visayas,375000
+BR019,Mindanao Branch 1,Mindanao,442000
+BR020,Mindanao Branch 2,Mindanao,447000
